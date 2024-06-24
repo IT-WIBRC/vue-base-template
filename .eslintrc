@@ -1,0 +1,6 @@
+{
+  "extends": ["eslint-config-epsvue"],
+  "rules": {
+    "sort-imports": "off"
+  }
+}
