@@ -1,3 +1,3 @@
-# exchange.web
+## Vue base template
 
-Chat app first
+A template to reduce all teh work to start a new Vue project
